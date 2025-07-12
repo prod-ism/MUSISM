@@ -6,7 +6,10 @@ To search up youtube videos, you need a **YouTube V3 API Key**, Figure out how t
 You can also playback local mp3 files by dragging them into the Downloads folder.
 
 # Features
-YouTube Audio Downloading
-Audio Playback/Seeking
-Loop/Shuffle
-Playlists
+> YouTube Audio Downloading
+> 
+> Audio Playback/Seeking
+> 
+> Loop/Shuffle
+> 
+> Playlists
