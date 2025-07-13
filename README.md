@@ -19,5 +19,5 @@ I don't know if theres mac/linux support because this was only tested on windows
 > Loop/Shuffle
 > 
 > Playlists
-
+>
 > a GOOD speed slider, that doesn't destroy the song's quality like YouTube, etc.
